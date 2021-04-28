@@ -3,7 +3,7 @@ This is simple implement of FaceNet with pytorch, first use MTCNN to get facial 
 It seems the image with same size work better than different size
 
 ## Image with same size (top-4)
-![image](https://github.com/AppleHank/FaceNet/blob/main/output_2.png)
+![image](https://github.com/AppleHank/FaceNet/blob/main/output.png)
 
 ## Image with different size
 ![image](https://github.com/AppleHank/FaceNet/blob/main/output.png)
