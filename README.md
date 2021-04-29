@@ -6,5 +6,3 @@ This is simple implement of FaceNet with pytorch, first use MTCNN to get facial 
 ## Image with same size (top-4)
 ![image](https://github.com/AppleHank/FaceNet/blob/main/output_without_resize.png)
 
-## Image with different size
-![image](https://github.com/AppleHank/FaceNet/blob/main/output.png)
